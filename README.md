@@ -42,5 +42,5 @@ Follow these steps to set up and run the project on your local machine:
    - After the installation is complete, you can start the shortest link exam by running the following command:
 
      ```bash
-     npm run crud
+     npm run follows
      ```
